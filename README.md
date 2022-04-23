@@ -5,5 +5,8 @@
   - Sign in with Facebook / Sign up with Facebook
   - Sign in with GitHub / Sign up with GitHub
 
+- Sign Up Page
+![The Sign Up Page](/static/Screenshot%20from%202022-04-23%2023-19-05.png)
+
 ## 
 -  Check out [django-allauth](https://django-allauth.readthedocs.io/en/latest/index.html) for Documentation
